@@ -1,0 +1,29 @@
+.header-wrapper{
+    position: relative;
+    background-image: url("../../assets/img/background/slide2.webp") ;
+    background-size: cover;
+    background-position:center;
+    height: 100vh;
+}
+
+.main-info{
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    
+}
+
+.main-info h1{
+    font-size: 50px;
+}
+
+.typed-text{
+    font-size: 2rem;
+}
